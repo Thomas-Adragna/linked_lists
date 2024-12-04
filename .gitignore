@@ -1,0 +1,10 @@
+.idea/
+Conclusion.txt
+Messages_de_log/cmake-build-debug/*
+Messages_de_log/.idea/*
+Messages_de_log/Exercice_3.docx
+mini_bibliotheque/.idea/*
+mini_bibliotheque/cmake-build-debug/*
+todo_liste/.idea/*
+todo_liste/cmake-build-debug/*
+
